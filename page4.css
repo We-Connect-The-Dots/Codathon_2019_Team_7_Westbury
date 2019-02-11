@@ -1,0 +1,27 @@
+
+body {
+    background-color: lavender;
+  }
+  
+
+  p {
+    font-family: "Verdana", Times, serif;
+
+}
+
+
+b { 
+    font-weight: bold;
+  }
+
+
+#backArrow{
+    height: 100px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  

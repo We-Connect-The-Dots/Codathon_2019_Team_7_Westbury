@@ -1,0 +1,37 @@
+#logo {
+    width: 15%;
+    height: 25%;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    justify-content: center;
+}
+
+li {
+    width: 20%;
+    text-align: center;
+    padding: 10px;
+    background-color: grey;
+    margin: 0;
+    display: inline-block;
+    border: thick solid black;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+li:hover {
+    border: thick solid white;
+    background-color: lightgrey;
+}
+p {
+    font-family: "Verdana", Times, serif;
+}
+
